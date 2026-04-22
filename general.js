@@ -1,3 +1,7 @@
+git add general.js
+git commit -m "Optimize author parameter handling and error messages"
+git push origin main
+
 const axios = require('axios');
 
 // Get book details based on author using Axios and Promises
